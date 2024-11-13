@@ -45,7 +45,7 @@ The Google Search Hover Summarizer enhances your browsing experience by quickly 
 Perform a Google search, and hover over any search result to see the summarizer in action!
 
 ## 📝 Demo
-Check out this demo video to see Google Search Hover Summarizer in action!
+Check out this demo video to see Google Search Hover AI Summarizer in action!
 
 ### 🤖 Technology Stack
 **Backend:** Python, Flask, Selenium, BeautifulSoup 
