@@ -1,6 +1,6 @@
-# Google Search Hover Summarizer 📚
+# Google Search Hover AI Summarizer 📚
 
-**Google Search Hover Summarizer** is a Chrome extension that provides AI-powered summaries for search results on Google. Hover over a search result, and a summary appears in a sleek, informative popup without having to leave the search page. This project leverages Flask, Selenium, and Hugging Face’s LLaMA and BART models for real-time, accurate article summarization.
+**Google Search Hover AI Summarizer** is a Chrome extension that provides AI-powered summaries for search results on Google. Hover over a search result, and a summary appears in a sleek, informative popup without having to leave the search page. This project leverages Flask, Selenium, and Hugging Face’s LLaMA and BART models for real-time, accurate article summarization.
 
 ## 🎯 Project Overview
 The Google Search Hover Summarizer enhances your browsing experience by quickly summarizing articles right on the Google search page. This tool is perfect for researchers, students, and professionals looking to save time by reviewing concise summaries before committing to a full read.
@@ -31,31 +31,28 @@ The Google Search Hover Summarizer enhances your browsing experience by quickly 
 ## Install dependencies:
 
 bash
+```
 pip install -r requirements.txt
-Start the Flask server:
-
-bash
-Copy code
+```
+### Start the Flask server:
+```makefile
 python app.py
-Load the Chrome Extension
-Open chrome://extensions in Chrome.
-Enable "Developer mode" and click "Load unpacked."
-Select the extension folder.
-Usage
+```
+### Load the Chrome Extension
+  - Open chrome://extensions in Chrome.
+  - Enable "Developer mode" and click "Load unpacked."
+
+### Select the extension folder.
 Perform a Google search, and hover over any search result to see the summarizer in action!
-📝 Demo
+
+## 📝 Demo
 Check out this demo video to see Google Search Hover Summarizer in action!
 
-🤖 Technology Stack
-Backend: Python, Flask, Selenium, BeautifulSoup, Hugging Face (LLaMA, BART models)
-Frontend: JavaScript, HTML, CSS
-Chrome Extension API
-🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests to improve the extension.
+### 🤖 Technology Stack
+**Backend:** Python, Flask, Selenium, BeautifulSoup 
+**Large Language Models:** Hugging Face (LLaMA, BART models)
+**Frontend:** JavaScript, HTML, CSS
 
-📄 License
-This project is licensed under the MIT License.
-
-🙌 Acknowledgments
-Hugging Face for the powerful language models
-Google Search for providing content-rich results to test the extension
+### 🙌 Acknowledgments
+  - Hugging Face for the powerful language models
+  - Google Search for providing content-rich results to test the extension
