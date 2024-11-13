@@ -29,15 +29,13 @@ The Google Search Hover Summarizer enhances your browsing experience by quickly 
    HUGGINGFACE_TOKEN=your_token
 
 ## Install dependencies:
-
-bash
-```
-pip install -r requirements.txt
-```
+  ```
+  pip install -r requirements.txt
+  
 ### Start the Flask server:
-```makefile
-python app.py
-```
+  ```makefile
+  python app.py
+
 ### Load the Chrome Extension
   - Open chrome://extensions in Chrome.
   - Enable "Developer mode" and click "Load unpacked."
