@@ -29,9 +29,9 @@ The Google Search Hover Summarizer enhances your browsing experience by quickly 
    HUGGINGFACE_TOKEN=your_token
 
 ## Install dependencies:
-  ```makefile
-  pip install -r requirements.txt
-  ```
+   ```makefile
+   pip install -r requirements.txt
+   ```
 ### Start the Flask server:
   ```makefile
   python app.py
