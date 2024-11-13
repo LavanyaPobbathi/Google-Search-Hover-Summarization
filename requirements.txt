@@ -1,0 +1,12 @@
+flask 
+flask-cors 
+torch 
+transformers 
+newspaper3k 
+huggingface-hub
+python-dotenv
+requests
+bitsandbytes
+accelerate
+selenium 
+webdriver-manager
