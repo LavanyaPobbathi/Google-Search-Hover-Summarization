@@ -51,9 +51,9 @@ Check out this demo video to see Google Search Hover AI Summarizer in action! [!
 ![image](https://github.com/user-attachments/assets/dd083a53-3ad0-4402-bd38-de6c463dd0b2)
 
 ### 🤖 Technology Stack
-**Backend:** Python, Flask, Selenium, BeautifulSoup 
-**Large Language Models:** Hugging Face (LLaMA, BART models)
-**Frontend:** JavaScript, HTML, CSS
+ - **Backend:** Python, Flask, Selenium, BeautifulSoup 
+ - **Large Language Models:** Hugging Face (LLaMA, BART models)
+ - **Frontend:** JavaScript, HTML, CSS
 
 ### 🙌 Acknowledgments
   - Hugging Face for the powerful language models
