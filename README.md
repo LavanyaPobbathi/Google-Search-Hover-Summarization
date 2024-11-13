@@ -27,7 +27,7 @@ The Google Search Hover Summarizer enhances your browsing experience by quickly 
 **Create a `.env` file** with your Hugging Face token:
    ```makefile
    HUGGINGFACE_TOKEN=your_token
-
+  ```
 ## Install dependencies:
    ```makefile
    pip install -r requirements.txt
