@@ -28,6 +28,10 @@ The Google Search Hover Summarizer enhances your browsing experience by quickly 
    ```makefile
    HUGGINGFACE_TOKEN=your_token
   ```
+### Load the Chrome Extension
+  - Open chrome://extensions in Chrome.
+  - Enable "Developer mode" and click "Load unpacked."
+    
 ## Install dependencies:
    ```makefile
    pip install -r requirements.txt
@@ -36,9 +40,6 @@ The Google Search Hover Summarizer enhances your browsing experience by quickly 
   ```makefile
   python app.py
   ```
-### Load the Chrome Extension
-  - Open chrome://extensions in Chrome.
-  - Enable "Developer mode" and click "Load unpacked."
 
 ### Select the extension folder.
 Perform a Google search, and hover over any search result to see the summarizer in action!
