@@ -48,6 +48,9 @@ Perform a Google search, and hover over any search result to see the summarizer 
 Check out this demo video to see Google Search Hover AI Summarizer in action!
 [![Watch the demo](thumbnail.png)](https://github.com/LavanyaPobbathi/Google-Search-Hover-Summarization/blob/main/demo.mp4)
 
+![image](https://github.com/user-attachments/assets/70a3f7ef-9b5f-4ece-8e23-88b3a033c03f)
+![image](https://github.com/user-attachments/assets/dd083a53-3ad0-4402-bd38-de6c463dd0b2)
+
 ### 🤖 Technology Stack
 **Backend:** Python, Flask, Selenium, BeautifulSoup 
 **Large Language Models:** Hugging Face (LLaMA, BART models)
