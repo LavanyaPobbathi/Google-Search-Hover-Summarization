@@ -24,7 +24,7 @@ The Google Search Hover Summarizer enhances your browsing experience by quickly 
 ## 🛠️ Setup
 
 ### Set Up the Flask Server
-1. **Create a `.env` file** with your Hugging Face token:
+**Create a `.env` file** with your Hugging Face token:
    ```makefile
    HUGGINGFACE_TOKEN=your_token
 
