@@ -1,13 +1,13 @@
 # Google Search Hover AI Summarizer 📚
 
-**Google Search Hover AI Summarizer** is a Chrome extension that provides AI-powered summaries for search results on Google. Hover over a search result, and a summary appears in a sleek, informative popup without having to leave the search page. This project leverages Flask, Selenium, and Hugging Face’s LLaMA and BART models for real-time, accurate article summarization.
+**Google Search Hover AI Summarizer** is a Chrome extension that provides AI-powered summaries for search results on Google. Hover over a search result, and a summary appears in a sleek, informative popup without having to leave the search page. This project leverages use of start-of-the-art Large Language Models (LLMs) like **LLaMA-3.2** and **BART** for real-time, Flask and Selenium, accurate article summarization along with reading time of the article without opeining the webpage.
 
 ## 🎯 Project Overview
 The Google Search Hover Summarizer enhances your browsing experience by quickly summarizing articles right on the Google search page. This tool is perfect for researchers, students, and professionals looking to save time by reviewing concise summaries before committing to a full read.
 
 ## 🚀 Key Features
 - **Seamless Integration**: Summaries display instantly on hover.
-- **AI-Powered Summarization**: Uses Hugging Face models for quality summaries.
+- **AI-Powered Summarization**: Uses Hugging Face models of LLaMA and BART for quality summaries.
 - **Dynamic Content Handling**: Falls back to Selenium for dynamic web pages.
 - **User-Friendly Design**: Clean, responsive popup with summary, reading time, and an "AI Generated" badge.
 
